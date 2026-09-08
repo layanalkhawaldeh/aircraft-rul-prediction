@@ -1,0 +1,101 @@
+Engine,Predicted_RUL,Risk_Level,Priority
+34,10,Critical,1
+81,10,Schedule Maintenance,2
+31,12,Schedule Maintenance,2
+68,12,Schedule Maintenance,2
+76,13,Schedule Maintenance,2
+82,13,Schedule Maintenance,2
+42,15,Schedule Maintenance,2
+35,17,Schedule Maintenance,2
+20,18,Schedule Maintenance,2
+49,19,Schedule Maintenance,2
+36,22,Schedule Maintenance,2
+100,23,Schedule Maintenance,2
+56,24,Schedule Maintenance,2
+66,24,Schedule Maintenance,2
+24,25,Schedule Maintenance,2
+92,25,Schedule Maintenance,2
+61,26,Schedule Maintenance,2
+64,26,Schedule Maintenance,2
+41,28,Schedule Maintenance,2
+90,30,Schedule Maintenance,2
+37,31,Schedule Maintenance,2
+40,31,Schedule Maintenance,2
+91,32,Schedule Maintenance,2
+77,33,Schedule Maintenance,2
+52,35,Schedule Maintenance,2
+53,35,Schedule Maintenance,2
+18,36,Schedule Maintenance,2
+58,42,Schedule Maintenance,2
+46,43,Schedule Maintenance,2
+62,46,Monitor,3
+3,47,Monitor,3
+93,48,Monitor,3
+38,52,Monitor,3
+32,53,Monitor,3
+17,58,Monitor,3
+72,65,Monitor,3
+94,68,Monitor,3
+43,69,Monitor,3
+98,73,Monitor,3
+21,76,Healthy,4
+84,78,Healthy,4
+13,82,Healthy,4
+97,84,Healthy,4
+45,87,Healthy,4
+10,90,Healthy,4
+4,91,Healthy,4
+63,91,Healthy,4
+70,96,Healthy,4
+16,97,Healthy,4
+27,97,Healthy,4
+19,98,Healthy,4
+8,100,Healthy,4
+11,101,Healthy,4
+50,101,Healthy,4
+15,102,Healthy,4
+44,102,Healthy,4
+80,102,Healthy,4
+48,103,Healthy,4
+7,104,Healthy,4
+73,104,Healthy,4
+29,105,Healthy,4
+79,105,Healthy,4
+95,105,Healthy,4
+71,106,Healthy,4
+96,106,Healthy,4
+12,107,Healthy,4
+5,108,Healthy,4
+59,108,Healthy,4
+74,108,Healthy,4
+75,108,Healthy,4
+1,109,Healthy,4
+25,109,Healthy,4
+51,109,Healthy,4
+26,110,Healthy,4
+28,111,Healthy,4
+6,112,Healthy,4
+57,112,Healthy,4
+30,113,Healthy,4
+33,114,Healthy,4
+55,114,Healthy,4
+60,115,Healthy,4
+89,115,Healthy,4
+14,116,Healthy,4
+47,116,Healthy,4
+54,116,Healthy,4
+87,116,Healthy,4
+99,116,Healthy,4
+23,117,Healthy,4
+67,117,Healthy,4
+86,117,Healthy,4
+88,117,Healthy,4
+9,118,Healthy,4
+69,118,Healthy,4
+22,119,Healthy,4
+2,120,Healthy,4
+39,120,Healthy,4
+65,120,Healthy,4
+83,120,Healthy,4
+85,120,Healthy,4
+78,122,Healthy,4
